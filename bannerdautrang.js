@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://phanphoimaylocnuocro.blogspot.com/' target='_blank'><img src='https://phanphoimaylocnuocro.blogspot.com/' width='500px'/><br/>13 Máy nước nóng năng lượng mặt </a>. Hotline: 0167.487.2534. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://phanphoimaylocnuocro.blogspot.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-j7r1BRtisdA/WtGojhOEUCI/AAAAAAAAJ5A/_OLme2jGyj478xT3LU7PmeK0ckq85DUlwCLcBGAs/h240/29746049_1696027087106908_1168791531_n.jpg' width='500px'/><br/>13 Máy nước nóng năng lượng mặt </a>. Hotline: 0167.487.2534. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
