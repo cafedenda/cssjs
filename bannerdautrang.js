@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://phanphoimaylocnuocro.blogspot.com/'><img src='https://4.bp.blogspot.com/-9XRN41wGBiE/Ws7iWPX5kjI/AAAAAAAAJ4k/bFwbfcqGcKEvKiN9ha0fofyFN-ba0d1LACLcBGAs/s1600/29746049_1696027087106908_1168791531_n.jpg' width='500px'/><br/>13 Nước nóng năng lượng mặt trời</a>. Liên hệ hotline: 01670167.487.. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
